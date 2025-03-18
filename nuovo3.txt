@@ -1,0 +1,2 @@
+git config --global user.name "Anthony Banche"
+git config --global user.email anthony.banche@its-ictpiemonte.it
